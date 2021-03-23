@@ -1,0 +1,44 @@
+body{
+  background-color:#f1f6f9 ;
+  /* #ffdcdc */
+}
+h1:hover{
+  color: blue ;
+}
+.heading{
+  text-align: center;
+}
+.heading-greeting{
+  text-align: center;
+  font-size: 75px ;
+  font-family: 'Sacramento' , cursive;
+  color: black ;
+}
+.kle-images{
+  height: 500px ;
+  width : 500px ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.select{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.heading1{
+text-align: center;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+.lists{
+  margin-left: 715px;
+
+}
